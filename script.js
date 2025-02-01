@@ -1,4 +1,4 @@
-// Variables
+
 let name = "John";
 let age = 25;
 let isStudent = true;
